@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memory>
+	 <maxMemory>
+	 1897922560.000000
+	 </maxMemory>
+	 <freeMemory>
+	 126929936.000000
+	 </freeMemory>
+</memory>
+<runningProcess>
+90
+</runningProcess>
+<disc>
+	<fileSystemRoot>
+	  C:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 931 GB
+		 </totalSpace>
+		 <usingSpace>
+		 340 GB
+		 </usingSpace>
+		 <freeSpace>
+		591 GB
+		</freeSpace>
+	<fileSystemRoot>
+	  D:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 0 GB
+		 </totalSpace>
+		 <usingSpace>
+		 0 GB
+		 </usingSpace>
+		 <freeSpace>
+		0 GB
+		</freeSpace>
+	<fileSystemRoot>
+	  E:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 0 GB
+		 </totalSpace>
+		 <usingSpace>
+		 0 GB
+		 </usingSpace>
+		 <freeSpace>
+		0 GB
+		</freeSpace>
+	<fileSystemRoot>
+	  F:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 0 GB
+		 </totalSpace>
+		 <usingSpace>
+		 0 GB
+		 </usingSpace>
+		 <freeSpace>
+		0 GB
+		</freeSpace>
+	<fileSystemRoot>
+	  G:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 0 GB
+		 </totalSpace>
+		 <usingSpace>
+		 0 GB
+		 </usingSpace>
+		 <freeSpace>
+		0 GB
+		</freeSpace>
+	<fileSystemRoot>
+	  H:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 0 GB
+		 </totalSpace>
+		 <usingSpace>
+		 0 GB
+		 </usingSpace>
+		 <freeSpace>
+		0 GB
+		</freeSpace>
+	<fileSystemRoot>
+	  I:\
+	</fileSystemRoot>
+		 <totalSpace>
+		 465 GB
+		 </totalSpace>
+		 <usingSpace>
+		 99 GB
+		 </usingSpace>
+		 <freeSpace>
+		365 GB
+		</freeSpace>
+</disc>
